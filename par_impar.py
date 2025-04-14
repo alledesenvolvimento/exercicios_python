@@ -5,4 +5,4 @@ def verificar_par_impar(numero):
         return "Impar"
     
 resultado = verificar_par_impar(7)
-print(resultado)
+print(f"O número 7 é {resultado}")
